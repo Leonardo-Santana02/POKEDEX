@@ -1,6 +1,4 @@
-## **Que tal essa versão do README.md, com destaque para a abrangência da Pokédex?**
-
-### **Sua Pokédex Completa: Das Aventuras de Kanto até a Emoção de Unova!**
+## **Sua Pokédex Completa: Das Aventuras de Kanto até a Emoção de Unova!**
 
 **Prepare-se para uma jornada épica pelo mundo Pokémon!**
 
